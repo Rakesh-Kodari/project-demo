@@ -1,3 +1,3 @@
 # project-demo
-this is apractice project
+this is a practice project.
 author - Rakesh
